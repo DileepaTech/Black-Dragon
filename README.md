@@ -3,7 +3,7 @@
 - FORK THE REPOSITORY [Here](https://github.com/nimaofficial/Black-Dragon/fork)
 
 ## `Scan QR Code For Session`
-[![Black dragon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/BLACK-DRAGON-QR)
+[![Black dragon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@yasasdileepara1/DT-MD-Official?v=1)
 
  ` BUILDPACKS`
 
